@@ -7,8 +7,9 @@
 
 ## MongoDB
 
+---
 
-# MongoDB Installation on MacOS
+# MongoDB Community Version Installation on MacOS
 
 ## brew tap mongodb/brew
 ## brew install mongodb-community
@@ -26,14 +27,14 @@
 # To Go To MongoDB Shell
 ## mongosh	
 
-
 ---
 
+# MongoDB Locations in MacOS
 
-configuration file - /opt/homebrew/etc/mongod.conf
-log directory - /opt/homebrew/var/log/mongodb
-data directory - /opt/homebrew/var/mongodb
+## configuration file - /opt/homebrew/etc/mongod.conf
+## log directory - /opt/homebrew/var/log/mongodb
+## data directory - /opt/homebrew/var/mongodb
 
 
-Ref:
-https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/
+# Reference:
+## https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/
