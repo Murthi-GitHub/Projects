@@ -38,3 +38,9 @@
 
 # Reference:
 ## https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/
+
+---
+
+## Output
+
+# Once Above All Done, Start MongoDB and Run app.py
